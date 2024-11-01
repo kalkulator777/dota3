@@ -1,1 +1,4 @@
 cianparser
+pandas
+matplotlib
+seaborn
