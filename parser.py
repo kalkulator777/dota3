@@ -15,7 +15,7 @@ except Exception as proxy_load_error:
     print(f"Something is wrong: {proxy_load_error}")
 
 # Немного данных для парсера
-cities = ["Московская область"]
+cities = ["Москва", "Долгопрудный", "Лобня", "Мытищи", "Одинцово", "Люберцы", "Реутов", "Химки", "Красногорск"]
 rooms = [1, 2, 3, 4, 5, "studio"]
 
 # Парсим
